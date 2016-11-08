@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["arthur@flyingtealeaf.com"]
   gem.description   = %q{A libcsv-based CSV parser for Ruby}
   gem.summary       = %q{Fast CSV parsing library for MRI based on libcsv. Supports type conversion, non-strict parsing and basic filtering.}
-  gem.homepage      = "http://github.com/fiksu/rcsv"
+  gem.homepage      = "http://github.com/bittrance/rcsv"
 
   gem.files         = `git ls-files`.split($\)
   gem.platform      = Gem::Platform::RUBY
